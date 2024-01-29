@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Leo Wang
 
 # CUSTOMIZE
-# Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2024
+# Short bio or description about you (displayed in the header)
+description: Junior CS Student at NYU
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -32,10 +32,10 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: lw3062@nyu.edu
   facebook:
   flickr:
-  github: ossd-s24
+  github: wwwld1
   instagram:
   linkedin:
   pinterest:
@@ -50,14 +50,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s24.github.io/weekly"
+url: "https://ossd-s24.github.io/wwwld1-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/wwwld1-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
