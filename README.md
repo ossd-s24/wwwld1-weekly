@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+This is my weekly blog, here is the [link](https://ossd-s24.github.io/wwwld1-weekly/)
