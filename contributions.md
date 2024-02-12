@@ -23,5 +23,4 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Jan 29   | [link to my contribution](https://github.com/joannakl/ossd/issues/84)    | course website    |   I found a broken link.    |
-| Feb 4    | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3595)    | Summer Intern Collection Project    |  I updated details of the internship application  |
 |     |     |     |      |
