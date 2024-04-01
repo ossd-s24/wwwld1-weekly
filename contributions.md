@@ -24,3 +24,6 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Jan 29   | [link to my contribution](https://github.com/joannakl/ossd/issues/84)    | course website    |   I found a broken link.    |
 |  Mar 1   | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3687)    |  Summer2024-Internships   |   I found a closed job application from the Internship application list and reported it   |
+|  Mar 7   | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3709)    |  Summer2024-Internships   |   I found the link to a job application is wrong, then I updated the correct link in the issue  |
+|  Mar 19  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3782)    |  Summer2024-Internships   |   I found a job application that requires U.S. Citizenship but not labeled in the title, so I reported it | 
+|  Mar 27  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3816)   |   Summer2024-Internships   |   I found a closed job application and reported to remove it | 
