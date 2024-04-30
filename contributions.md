@@ -31,4 +31,5 @@ Replace the first row with your own contribution.
 |  Apr 9   | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3871)   |   Summer2024-Internships   |   I found the job application requires U.S. Citizenship, but it was not labeled, so I reported it in the issue | 
 |  Apr 12  | [link to my contribution](https://www.openstreetmap.org/changeset/149931156) |   OpenStreetMap  |  I updated the number of levels for my apartment | 
 |  Apr 13  | [link to my contribution](https://github.com/Tampermonkey/tampermonkey/issues/2032) |  Tampermonkey  |  I found a broken link in the README.md of Tampermonkey and reported it | 
-|  Apr 27  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3952)   |   Summer2024-Internships   |   I wanted to add a new internship application to the collection, so created the issue to add it | 
+|  Apr 27  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3952)   |   Summer2024-Internships   |   I wanted to add a new internship application to the collection, so created the issue to add it, and it is merged :) | 
+|  Apr 29  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3955)   |   Summer2024-Internships   |   I opened a issue to add a new internship application to the collection | 
