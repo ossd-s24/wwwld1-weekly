@@ -35,3 +35,4 @@ Replace the first row with your own contribution.
 |  Apr 29  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3955)   |   Summer2024-Internships   |   I opened a issue to add a new internship application to the collection | 
 |  Apr 30  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3956)   |   Summer2024-Internships   |   I opened a issue to add a new internship application | 
 |  Apr 30  | [link to my contribution](https://www.openstreetmap.org/changeset/150733039)   |   OpenStreetMap   |   Update the number of floors for Bobst library | 
+|  May 1  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3957)   |   Summer2024-Internships   |   Add a new internship application to the collection | 
