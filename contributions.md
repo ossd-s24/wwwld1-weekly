@@ -32,8 +32,8 @@ Replace the first row with your own contribution.
 |  Apr 12  | [link to my contribution](https://www.openstreetmap.org/changeset/149931156) |   OpenStreetMap  |  I updated the number of levels for my apartment | 
 |  Apr 13  | [link to my contribution](https://github.com/Tampermonkey/tampermonkey/issues/2032) |  Tampermonkey  |  I found a broken link in the README.md of Tampermonkey and reported it | 
 |  Apr 27  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3952)   |   Summer2024-Internships   |   I wanted to add a new internship application to the collection, so created the issue to add it, and it is merged :) | 
-|  Apr 29  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3955)   |   Summer2024-Internships   |   I opened a issue to add a new internship application to the collection | 
-|  Apr 30  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3956)   |   Summer2024-Internships   |   I opened a issue to add a new internship application | 
+|  Apr 29  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3955)   |   Summer2024-Internships   |   I opened a issue to add a new internship application to the collection, and now is merged | 
+|  Apr 30  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3956)   |   Summer2024-Internships   |   I opened a issue to add a new internship application, and now is merged | 
 |  Apr 30  | [link to my contribution](https://www.openstreetmap.org/changeset/150733039)   |   OpenStreetMap   |   Update the number of floors for Bobst library | 
-|  May 1  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3957)   |   Summer2024-Internships   |   Add a new internship application to the collection | 
+|  May 1  | [link to my contribution](https://github.com/SimplifyJobs/Summer2024-Internships/issues/3957)   |   Summer2024-Internships   |   Add a new internship application to the collection, and now is merged | 
 |  May 1  | [link to my contribution](https://www.openstreetmap.org/changeset/150773857#map=19/40.73096/-73.99483)   |   OpenStreetMap   |   Update the number of floors for NYU dorm Weinstein hall | 
